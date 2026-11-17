@@ -1,1 +1,6 @@
-{"apkUrl":"https://github.com/pro4plus/alseeja-updates/releases/download/v4.2.0/alseeja-alsija-screens-v12.apk","latestVersionCode":18,"notes":"حُذف زرا التراجع والتلميح، وأُضيف التعرّف على التحديث داخل اللعبة، وسجلّي، ومشاركة النتيجة، ولغز اليوم.","versionName":"4.2.0"}
+{
+  "latestVersionCode": 19,
+  "versionName": "4.3.0",
+  "apkUrl": "https://apkpure.com/p/com.kbox.alseeja",
+  "notes": "تذكير لغز اليوم بالإشعارات، وورقة سجلّي ببطاقات، وأزرار صغيرة للرئيسية، والتحديث يفحص APKPure أولاً."
+}
